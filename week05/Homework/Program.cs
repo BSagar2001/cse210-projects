@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create a base "Assignment" object
+        
         Assignment a1 = new Assignment("Samuel Bennett", "Multiplication");
         Console.WriteLine(a1.GetSummary());
 
